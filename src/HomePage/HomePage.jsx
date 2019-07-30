@@ -12,24 +12,30 @@ class HomePage extends React.Component {
     render() {
         const { user, users } = this.props;
         return (
-            <div className="col-md-6 col-md-offset-3">
-                <h1>Hi {user.firstName}!</h1>
-                <p>You're logged in with React & JWT!!</p>
-                <h3>Users from secure api end point:</h3>
-                {users.loading && <em>Loading users...</em>}
-                {users.error && <span className="text-danger">ERROR: {users.error}</span>}
-                {users.items &&
-                    <ul>
-                        {users.items.map((user, index) =>
-                            <li key={user.id}>
-                                {user.firstName + ' ' + user.lastName}
-                            </li>
-                        )}
-                    </ul>
-                }
-                <p>
-                    <Link to="/login">Logout</Link>
-                </p>
+            <div className="col-md-12 col-md-offset-3">
+                <div class="panel panel-primary">
+                     <div class="panel-heading"> <h3 class="panel-title">Active Delivery Appointment</h3> </div> 
+                     <div class="panel-body"> 
+                        <h1>Welcome {user.firstName}!</h1>
+                        <p>Your order has just been picked and packed, and ready to be handed over to the carrier. You can expect your order real soon now. Below you find the tracking link to follow your shipment any time. <br />
+                        If the tracking information has not been updated after 2 business days, please contact our customer service. We will immediately start an investigation to locate your order. Please always refer to your order number 2100029890 when contacting us.   </p>
+                        
+                        {users.loading && <em>Loading users...</em>}
+                        {users.error && <span className="text-danger">ERROR: {users.error}</span>}
+                        {users.items &&
+                            <ul>
+                                {users.items.map((user, index) =>
+                                    <li key={user.id}>
+                                        {user.firstName + ' ' + user.lastName}
+                                    </li>
+                                )}
+                            </ul>
+                        }
+                        <p>
+                            <Link to="/login">Logout</Link> 
+                        </p>
+                      </div> 
+                </div>
             </div>
         );
     }
