@@ -1,0 +1,31 @@
+#appBar {
+    background-color: #444448;
+}
+#book_appointment{
+    color: #fff;
+    background-color: #05407d;
+    width: 19% !important;
+    margin-left: 10px;
+}
+
+#cancel_appointment{
+    color: #fff;
+    background-color: #e73212;
+    width: 21% !important;
+    margin-left: 10px;
+}
+.buttton_container{
+    padding-top: 7px;
+    background-color: #a9a9af;
+    width: 100%;
+    padding-bottom: 7px;
+}
+.main_container{
+    width: 97%;
+    height: 270px;
+    background-color: #e5e5ea;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    margin-top: -11px;
+}

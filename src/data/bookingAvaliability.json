@@ -1,0 +1,224 @@
+{
+    "Successful": "Y",
+    "ErrorMessages": [],
+    "BookingAvailabilitySlots":    [
+             {
+          "DailyTripID": "M8RD204M012608201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-26T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M012708201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-10T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M012808201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-11T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M012908201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-07T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M013008201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-08-30T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M010209201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-02T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M010309201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-03T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M010409201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-04T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M010509201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-05T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M010609201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-06T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M010909201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-22T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011009201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-10T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011109201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-11T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011209201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-12T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011309201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-13T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011609201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-16T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011709201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-17T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011809201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-18T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M011909201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-19T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M012009201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-20T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M012309201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-23T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       },
+             {
+          "DailyTripID": "M8RD204M012409201905000",
+          "TownCode": "RDB",
+          "SuburbName": "RANDBURG",
+          "ServiceDate": "2019-09-24T00:00:00",
+          "ServiceTime": "12:00PM -  2:00PM",
+          "AvailableSlots": 30,
+          "AdditionalSuburbNotes": ""
+       }
+    ],
+    "ServiceDays": [   {
+       "Version": "01112017",
+       "Mon": "Y",
+       "Tue": "Y",
+       "Wed": "Y",
+       "Thu": "Y",
+       "Fri": "Y",
+       "Sat": null,
+       "Sun": null,
+       "PubHol": null,
+       "MonServiceTimes": {"TimeSlot": ["12:00PM -  2:00PM"]},
+       "TueServiceTimes": {"TimeSlot": ["12:00PM -  2:00PM"]},
+       "WedServiceTimes": {"TimeSlot": ["12:00PM -  2:00PM"]},
+       "ThuServiceTimes": {"TimeSlot": ["12:00PM -  2:00PM"]},
+       "FriServiceTimes": {"TimeSlot": ["12:00PM -  2:00PM"]},
+       "SatServiceTimes": null,
+       "SunServiceTimes": null,
+       "PHServiceTimes": null,
+       "CreatedDate": "7/11/2019 8:57:02 AM"
+    }]
+ }
